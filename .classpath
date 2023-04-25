@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="lib" path="C:/mysql-connector-j-8.0.33/mysql-connector-j-8.0.33.jar"/>
-	<classpathentry kind="output" path="out/production/Sagrada2023-e-main"/>
-</classpath>
