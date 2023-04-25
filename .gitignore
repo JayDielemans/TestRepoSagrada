@@ -23,6 +23,11 @@
 hs_err_pid*
 replay_pid*
 
-# out folder
+# IntelliJ IDEA files from the building process
 out/production/Sagrada2023-e-main
 .IDEA
+
+# Auto generated Eclipse files
+Sagrada2023-e-main.iml
+.project
+
